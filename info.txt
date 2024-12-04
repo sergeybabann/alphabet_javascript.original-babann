@@ -2,6 +2,7 @@
 
 github repo:
 
+https://github.com/sergeybabann/alphabet_javascript.original-babann
 
 
 video stop: 
