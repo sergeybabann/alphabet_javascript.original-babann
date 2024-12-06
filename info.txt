@@ -5,7 +5,7 @@ github repo:
 https://github.com/sergeybabann/alphabet_javascript.original-babann
 
 
-video stop: 9.29 --> 07. Понятие объектно-ориентированного программирования
+video stop: 9.29 --> 
 
-lesson complete: 
+lesson complete: 07. Понятие объектно-ориентированного программирования
 
